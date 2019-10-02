@@ -1,4 +1,7 @@
-BIG TEST
+PoeHud
+======
+
+CURRENTLY DETECTED - USE AT YOUR OWN RISK
 =========================================
 
 Warnings are currently going out for HUD users. Using this can and likely will get you banned.
